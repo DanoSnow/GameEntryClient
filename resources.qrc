@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Hide Password.png</file>
+        <file>Show Password.png</file>
+    </qresource>
+</RCC>
